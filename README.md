@@ -23,8 +23,4 @@ Building a low poly female character model from scratch using geometric primitiv
 
 ---
 
-<!-- Add more labs below as you complete them -->
 
-## About
-These practicals cover core concepts in 3D graphics including modeling, rendering, and animation.
-Built as part of the IG3D curriculum at Sorbonne University.
